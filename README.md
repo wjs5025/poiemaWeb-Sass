@@ -12,6 +12,8 @@
 
 ## 2. CSS를 프로그래밍 언어와 같이 작성할 수 있게 확장한 SassScript
 
+[이동](./2.%20CSS%EB%A5%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%96%B8%EC%96%B4%EC%99%80%20%EA%B0%99%EC%9D%B4%20%EC%9E%91%EC%84%B1%ED%95%A0%20%EC%88%98%20%EC%9E%88%EA%B2%8C%20%ED%99%95%EC%9E%A5%ED%95%9C%20SassScript.md)
+
 ## 3. Nesting, import, extend, 조건과 반복, Mixin, Function
 
 ## 4. Sass가 제공하는 기본 내장 함수
